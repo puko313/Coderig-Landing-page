@@ -1,0 +1,23 @@
+{
+  "name": "coderig-landing-page",
+  "version": "1.0.0",
+  "description": "A landing page for a company called Coderig built in tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwindcss": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monciego/coderig-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monciego/coderig-landing-page/issues"
+  },
+  "homepage": "https://github.com/monciego/coderig-landing-page#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
